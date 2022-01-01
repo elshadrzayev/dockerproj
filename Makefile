@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.docker.proj
+	python3 -m venv ~/.dockerproj
 
 install:
 	pip install --upgrade pip &&\
